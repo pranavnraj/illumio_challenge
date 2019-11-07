@@ -16,6 +16,6 @@ I included a test script called firewall_test.py, which does all the above tasks
 2. To make this implementation more efficient given more time, I could have possibly sorted the set of rules by some comparator function and then used a binary search to go through the rules instead of iterating linearly like I currently do.
 
 ## Team Preference Ranking
-1. Data Team
-2. Platform Team
-3. Policy Team
+1. Platform Team
+2. Policy Team
+3. Data Team
